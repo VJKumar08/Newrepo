@@ -1,3 +1,3 @@
-# Newrepo
-123
+yum install update -y
+yum install httpd -y
 
